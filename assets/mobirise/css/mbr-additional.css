@@ -722,7 +722,7 @@ a {
 .cid-sLNDtG42fq .dropdown-menu {
   padding: 1rem 0;
   border-radius: 0px;
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sLNDtG42fq .dropdown-item:hover,
 .cid-sLNDtG42fq .dropdown-item:focus {
@@ -745,7 +745,7 @@ a {
   position: relative;
 }
 .cid-sLNDtG42fq .nav-link:hover {
-  color: #ffffff !important;
+  color: #666666 !important;
 }
 .cid-sLNDtG42fq .nav-link:hover:before {
   opacity: 1;
